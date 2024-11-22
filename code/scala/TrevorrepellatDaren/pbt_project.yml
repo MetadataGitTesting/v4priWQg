@@ -1,0 +1,75 @@
+name: lowell.roob
+description: Open-architected
+version: 0.0.1
+author: jyndvopx.aamb9sbn@ax2hjxna.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lowellroob
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:03:02'
+pipelines:
+  pipelines/Marchelle_GibsonCal_SeeiumIssac_Hane_MD:
+    name: Marchelle_GibsonCal_SeeiumIssac_Hane_MD
+    description: null
+    author: jyndvopx.aamb9sbn@ax2hjxna.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-11-22 23:03:02'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/Holli_WhiteNick_L__AndimeFrancesco_Cummings:
+    name: Holli_WhiteNick_L__AndimeFrancesco_Cummings
+    description: null
+    author: jyndvopx.aamb9sbn@ax2hjxna.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-11-22 23:03:03'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:03:02'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:03:02.817735Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '847412144'
+  createdAt: '2024-11-22T23:03:02.817735Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
